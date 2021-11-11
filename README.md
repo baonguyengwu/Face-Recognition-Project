@@ -1,10 +1,4 @@
-----------------------
-Capstone Project
-README file
-Bao Nguyen, Hau Truong, Vincent Nguyen
-PSIS 4191
-Professor Hooshangi
-----------------------
+
 
 ----------------------
 Face Recognition Program
